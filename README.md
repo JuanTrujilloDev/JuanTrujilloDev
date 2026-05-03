@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/harry-potter.gif" width="160" alt="Harry Potter" />
+
 # Juan Trujillo
 
 **Engineering Manager · Project Lead · Strong Python dev, eternal architecture student.**
@@ -15,7 +17,7 @@
 
 ## 👋 Hey
 
-I'm Juan — Engineering Manager at [Alternova](https://alternova.com), Project Lead on **351 Exchange** (fintech) and **Nexus / UCSF** (clinical research). Started as a backend dev, grew into product ownership, now leading teams — but I keep my hands on the keyboard.
+I'm Juan, Engineering Manager at [Alternova](https://alternova.com) and Project Lead on [Exchangifi](https://exchangifi.com). Started as a backend dev, grew into product ownership, now leading teams, but I keep my hands on the keyboard.
 
 The flywheel behind most of my side work:
 
@@ -30,16 +32,18 @@ I'm trying to ship Python tooling that feels obvious in hindsight, with opinions
 - 🪄 **[claude-config-template](https://github.com/JuanTrujilloDev/claude-config-template)** — Battle-tested Claude Code config. Installable as a one-line plugin or rendered as a parameterized template. 7 agents, 9 slash commands, 3 hooks, 8 operating principles.
 - 📬 **[notihub](https://pypi.org/project/notihub/)** — Unified Python notification client (email, SMS, push) on PyPI.
 - 👀 **fisgon** — AI code-reviewer pipeline I built at Alternova. Named after my guinea pig Fisgón (*snoopy* in English) because it pokes its nose into every PR.
-- 🐍 **A from-scratch async Python web framework** — third attempt, in progress. *This one's the one.*
-- 💼 **351 Exchange** — Django + DRF + HTMX/Alpine fintech platform for tax-deferred real estate exchanges.
+- 🐍 **A from-scratch async Python web framework**, third attempt, in progress. *This one's the one.*
+- 💼 **[Exchangifi](https://exchangifi.com)**, Django + DRF + HTMX/Alpine fintech platform for tax-deferred real estate exchanges.
 
 ## 🥋 Outside the editor
 
-- 🥊 BJJ blue belt + MMA training — where I learn humility
+- 🥊 BJJ blue belt and MMA training, where I learn humility
 - ⛳ Slowly improving my golf swing
 - 🎵 Lo-fi on perpetual rotation
 - 🎮 Videogames, movies, the usual
-- 🐕 **Milu** (golden retriever) and the guinea pig brothers **Panchito** & **Fisgón** — yes, *that* Fisgón
+- 🐕 **Milu**, my golden retriever
+- 🐹 **Panchito** & **Fisgón**, the guinea pig brothers (yes, *that* Fisgón)
+- 🦅 Ravenclaw at heart, which is the polite way of saying perfectionist
 
 ---
 
@@ -48,8 +52,6 @@ I'm trying to ship Python tooling that feels obvious in hindsight, with opinions
 **Languages**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **Backend**
@@ -57,6 +59,7 @@ I'm trying to ship Python tooling that feels obvious in hindsight, with opinions
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-A30000?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -76,19 +79,10 @@ I'm trying to ship Python tooling that feels obvious in hindsight, with opinions
 
 ---
 
-## 📊 GitHub at a glance
-
 <div align="center">
 
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanTrujilloDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/JuanTrujilloDev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanTrujilloDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/JuanTrujilloDev)
+<img src="assets/snape.gif" width="200" alt="Snape" />
 
-</div>
-
----
-
-<div align="center">
-
-<sub>*"I turn ideas into reality."* · Based in Colombia · Always shipping.</sub>
+<sub>*"I turn ideas into reality."* · Based in Colombia · Always shipping · 🦅 Ravenclaw forever</sub>
 
 </div>
